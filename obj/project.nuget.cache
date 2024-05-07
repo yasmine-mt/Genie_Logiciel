@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sJTAea5RF37AM/7My+Eh9BX34R7P7l2BQ8V+e1wxV39/zQ5Yuni4w7c//jwT3HQuxcFTijDdgAX7vTiyuTH/GA==",
+  "dgSpecHash": "6sY3FiwThxPFdz4DRFHwN7jRkeexJBldFddZj31tsS706cyPH5cVWGtHe/HdllauJfHHTMk/laPbf5ITxnSejw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Paraphamacy's Project\\backend\\backend.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Source\\Repos\\Genie_Logiciel\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.15\\microsoft.aspnetcore.authentication.jwtbearer.6.0.15.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.15\\microsoft.aspnetcore.jsonpatch.6.0.15.nupkg.sha512",
